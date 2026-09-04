@@ -1,0 +1,7 @@
+dataset,entities,relations,timestamps,train,valid,test,total,train_file,valid_file,test_file
+WN18RR,41105,11,,86835,3034,3134,93003,/storage/bhull113/rhgnn/data/WN18RR/train.txt,/storage/bhull113/rhgnn/data/WN18RR/valid.txt,/storage/bhull113/rhgnn/data/WN18RR/test.txt
+FB15k-237,14541,237,,272115,17535,20466,310116,/storage/bhull113/rhgnn/data/FB15k-237/train.txt,/storage/bhull113/rhgnn/data/FB15k-237/valid.txt,/storage/bhull113/rhgnn/data/FB15k-237/test.txt
+YAGO11k,10623,10,369,16408,2050,2051,20509,/storage/bhull113/rhgnn/data/YAGO11k/train.txt,/storage/bhull113/rhgnn/data/YAGO11k/valid.txt,/storage/bhull113/rhgnn/data/YAGO11k/test.txt
+WIKIDATA12k,12394,24,522,31224,3986,4006,39216,/storage/bhull113/rhgnn/data/WIKIDATA12k/train.txt,/storage/bhull113/rhgnn/data/WIKIDATA12k/valid.txt,/storage/bhull113/rhgnn/data/WIKIDATA12k/test.txt
+ICEWS14,7128,230,365,63685,13823,13222,90730,/storage/bhull113/rhgnn/data/ICEWS14/train.txt,/storage/bhull113/rhgnn/data/ICEWS14/valid.txt,/storage/bhull113/rhgnn/data/ICEWS14/test.txt
+GDELT,12869,258,2504,1734399,341961,341961,2418321,/storage/bhull113/rhgnn/data/GDELT/train.txt,/storage/bhull113/rhgnn/data/GDELT/valid.txt,/storage/bhull113/rhgnn/data/GDELT/test.txt

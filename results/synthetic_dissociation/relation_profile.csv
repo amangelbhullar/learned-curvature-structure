@@ -1,0 +1,14 @@
+relation_id,family,branching,depth,cross_frac
+0,branch_b1,1,1,0.0
+1,branch_b2,2,1,0.0
+2,branch_b4,4,1,0.0
+3,branch_b8,8,1,0.0
+4,branch_b16,16,1,0.0
+5,depth_d2,1,2,0.0
+6,depth_d4,1,4,0.0
+7,depth_d8,1,8,0.0
+8,depth_d16,1,16,0.0
+9,loopy_p0.0,4,1,0.0
+10,loopy_p0.2,4,1,0.2
+11,loopy_p0.5,4,1,0.5
+12,loopy_p1.0,4,1,1.0

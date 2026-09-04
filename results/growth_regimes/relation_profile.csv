@@ -1,0 +1,14 @@
+relation_id,family,regime,branching,depth,log_branching
+0,tree_b2_d6,sustained_exp,2,6,0.6931
+1,tree_b3_d4,sustained_exp,3,4,1.0986
+2,tree_b4_d3,sustained_exp,4,3,1.3863
+3,tree_b2_d3,sustained_exp,2,3,0.6931
+4,tree_b5_d3,sustained_exp,5,3,1.6094
+5,star_b8,burst_then_flat,8,1,2.0794
+6,star_b32,burst_then_flat,32,1,3.4657
+7,chain_d8,linear,1,8,0.0
+8,chain_d16,linear,1,16,0.0
+9,grid_8,polynomial,4,8,0.0
+10,grid_12,polynomial,4,12,0.0
+11,clique_6,bounded,5,1,0.0
+12,clique_10,bounded,9,1,0.0

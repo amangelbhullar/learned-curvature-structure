@@ -1,0 +1,9 @@
+dataset,n_tests,n_sig_within,n_sig_global
+Dissociation,19,11,11
+FB15k-237,19,14,14
+GDELT,18,6,6
+ICEWS14,19,14,14
+Trees,14,13,12
+WIKIDATA12k,19,8,8
+WN18RR,19,4,6
+YAGO11k,19,1,7
